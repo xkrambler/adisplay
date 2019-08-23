@@ -30,11 +30,14 @@ There are two protocols decoded in this work:
 
 	decode1/
 
-		Logic decoding of the packets with LogicAnalyzer, OpenBench LogicSniffer, pulseview, sigrok or the fabulous logic analyzer (don't remember if used all or some of them).
+		Logic decoding of the packets with LogicAnalyzer, OpenBench LogicSniffer,
+		pulseview, sigrok or the fabulous logic analyzer (don't remember if used
+		all or some of them).
 
 	decode2/
 
-		First versions of Climate SPI decoding, using an PHP climaC1.php parser and some debugging, and datafiles.
+		First versions of Climate SPI decoding, using an PHP climaC1.php parser
+		and some debugging, and datafiles.
 
 	decode3/
 
@@ -42,14 +45,19 @@ There are two protocols decoded in this work:
 
 	decode4/
 
-		Final version of Climate SPI decoding (clima4.php) and examples (clima4.txt).
+		Final version of Climate SPI decoding (clima4.php) and examples
+		(clima4.txt).
 
 	doc/
 
-		Files Accord8th_RX_notes.log and Accord8th_TX_notes.log contains the Radio decoding.
-		Files Accord8th_RAW_RX1.log, Accord8th_RAW_RX2.log and Accord8th_RAW_TX1.log are the RAW data not parsed.
+		Files Accord8th_RX_notes.log and Accord8th_TX_notes.log contains
+		the Radio decoding.
 
-		There are several miscelanea files with the OEM connectors and the custom-made interfacing connectors.
+		Files Accord8th_RAW_RX1.log, Accord8th_RAW_RX2.log
+		and Accord8th_RAW_TX1.log are the RAW data not parsed.
+
+		There are several miscelanea files with the OEM connectors and
+		the custom-made interfacing connectors.
 
 		There are also some SPI decoding and screenshots for Climate.
 
@@ -60,21 +68,36 @@ There are two protocols decoded in this work:
 
 	display8th/
 
-		Windows Visual Basic 6 debug application to use the interface for Radio (not Climate).
-		You need to place msvbvm60.dll in the PATH and also RICHTX32.OCX and register it with administrative rights (regsvr32 RICHTX32.OCX).
+		Windows Visual Basic 6 debug application to use the interface
+		for Radio (not Climate). You need to place msvbvm60.dll in the PATH
+		and also RICHTX32.OCX and register it with administrative rights
+		(regsvr32 RICHTX32.OCX).
 
 	adisplaywin/
 
-		Windows Visual Basic 6 interface applications only for climate. It registers a windows toolbar down to prevent windows applications stay over it. It's nice if you use a Carputer with Windows.
+		Windows Visual Basic 6 interface applications only for climate.
+		It registers a windows toolbar down to prevent windows applications
+		stay over it. It's nice if you use a Carputer with Windows.
 
 	adisplay/
 
-		This is the best mantained version because you can run it on a RPI and get it running in less than 5 seconds from powerup replacing the init script with a basic script that gets udev up (needed for SDL2) and launch JSDL. So Javascript JSDL version meant to be runned on a Raspberry PI (2 or 3 works best). Maybe SDL 2.0 needs to be custom-compiled to get working the PNG rendering (SDL 2.0 package is bad on the RPI and until today I don't know if its fixed). Also, yo need JSDL (JSDL is a lightweight C++11 OpenSource V8 Engine powered JavaScript runner with integrated bindings -SDL 2, SDL Image 2, SDL TTF 2, Serial, File, System-). Yo can get it on github:
+		This is the best mantained version because you can run it on a RPI
+		and get it running in less than 5 seconds from powerup replacing
+		the init script with a basic script that gets udev up (needed for SDL2)
+		and launch JSDL. So Javascript JSDL version meant to be runned on
+		a Raspberry PI (2 or 3 works best). Maybe SDL 2.0 needs to be
+		custom-compiled (with patches) to get working the PNG rendering
+		(SDL 2.0 package is bad on the RPI and until today I don't know if its
+		fixed). Also, yo need JSDL (JSDL is a lightweight C++11 OpenSource V8
+			Engine powered JavaScript runner with integrated bindings -SDL 2,
+			SDL Image 2, SDL TTF 2, Serial, File, System-). You can get it here:
 
 			https://github.com/xkrambler/jsdl
 
 			To compile it, just install V8 and SDL development libraries and write:
+
 			# make
+
 			And its done.
 
 		Then, you can run this adisplay interface.
@@ -94,11 +117,13 @@ There are two protocols decoded in this work:
 
 	adisplay-c/
 
-		OpenFrameworks C version of adisplay. It's a runinng proof-of-concept for Radio decoding only. You need to install OpenFrameworks and compile it.
+		OpenFrameworks C version of adisplay. It's a runinng proof-of-concept
+		for Radio decoding only. You need to install OpenFrameworks and compile it.
 
 	adisplay-php/
 
-		PHP adisplay version. You need to install phpsdl module. Its on phpsdl/ folder inside. Check the README.md file to compile and install it.
+		PHP adisplay version. You need to install phpsdl module. Its on phpsdl/
+		folder inside. Check the README.md file to compile and install it.
 
 		Once installed, you can run it in simulation:
 			php adisplay.php -simulate
