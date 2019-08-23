@@ -1,4 +1,4 @@
-# Honda Accord 8th (Euro) Display Hacking
+# Honda Accord 8th (Euro) / Acura TSX CU/CW Display Hacking
 
 (c) 2019 Pablo Rodríguez Rey (mr.xkr - mr -at- xkr -dot- es)
 These materials are licensed under the HACK license (read doc/HACK.txt) by Giacomo Tesio written on January 01, 2019.
