@@ -1,0 +1,165 @@
+Hacking License
+===============
+
+Our Curiosity serves Humanity through Freedom, Candor and Communion.
+
+This license grants you the right to hack with us, to explore ways we ignore
+and to challenge our assumptions by teaching us what you will learn.
+
+
+1. Definitions
+--------------
+For the purpose of this License:
+
+- "License" refers to this License.
+- "Copyright" refers to the transferable rights that copyright-like
+  laws assign to the authors of a literary work.
+- "Hack" refers to the software, the documentation and the contents
+  distributed under this License.
+- "Hacker" refers to any Copyright holder of the Hack.
+- "Human" is every live being with humans among its genetic ancestors.
+- "Application" refers to a set of programs exchanging data.
+- "Runtime" refers to any runtime system, any operating system, any
+  virtual machine and/or any interpreter that is required to run the Hack.
+- The adverb "unconditionally" excludes further constraints and requirements,
+  including, but not limited to, further agreements, royalties or other fee.
+- "Source" refers to the human-readable form of a software which is the
+  most convenient for people to study and modify, and that can be used
+  to generate a new identical copy of the software itself.
+- "User" refers to any Human receiving a copy of the Hack and/or its
+  Source, and/or performing any action permitted by this License.
+- "Required Tools" refers to the documentation and the software required for
+  the fruition of the rights granted by this License that are not part of the
+  Runtime or unconditionally available by other reasonable means to every User.
+- To "study" a software means to perform any activity that could help
+  the User to deeply understand it, to understand how to modify it or to
+  explain its usage and inner working to other Users.
+- To "copy" means to create a new exact copy of a work, for any purpose
+  and on any medium, even after applying any lossless transformation to it,
+  including, but not limited to, compression or encryption.
+- To "convey" means to perform any action that might enable other Humans
+  to copy a work and/or to obtain or receive copies of it.
+- To "distribute" means any action that enables any other Human to perform
+  any of the activities permitted by this License.
+- To "use" a software means to generate a new copy of the software from
+  its Source, to run it for any purpose, to install it, to interact with
+  it through any medium or proxy (even asynchronously), to provide data
+  used for its input or to consume its output (or any part of it), to
+  perform it in public or privately, and/or to store and run a Derived Work
+  in place of the software itself.
+- To "wrap" a software means to integrate it into an Application.
+  The programs that collect, store, transform and/or transfer data
+  for the User or between the User and the Hack are called "Wrappers".
+  Wrappers do not include any program or library that Users can find in
+  off-the-shelf distributions of the Runtime, but include any modified
+  version of such programs and libraries, if used to run the Application.
+  The license of a Wrapper is compatible with this License if it
+  unconditionally grants to the Users access to the Wrapper's Source and the
+  right to study, copy, use, wrap, modify, convey and/or distribute the Wrapper
+  and/or the Application and/or any modified version of them, in any form.
+- To "modify" a software means to perform any action that would require
+  Copyright permission, except for studying, copying, using, wrapping
+  conveying and distributing the software, including, but not limited to,
+  to adapt all or part of the software, to translate all or part of it to
+  a different language or form, to create or modify its documentation,
+  to refactor its Source, or to combine the software or parts of it with
+  other works. The resulting work is called a "Derived Work", whereas
+  "Inspiring Hacks" are the original works modified to create it.
+
+
+2. Grants
+---------
+Subject to the Conditions below:
+
+1. Permission is hereby granted to any User of the Hack to study, copy,
+   use, wrap, modify, convey and/or distribute the Hack, and to distribute
+   any Derived Work under this License but clearly informing recipients
+   about the differences with the Hack.
+
+2. A patent license to perform each and every of the actions permitted
+   above is granted to any User under the Hackers' essential patent claims.
+
+3. If the Hack is a Derived Work, the Hackers grant to the Copyright holders
+   of the Inspiring Hacks all permissions and patent licenses granted to the
+   Users of the Hack, and all rights, title and interests in any Copyright
+   the Hackers have in the Hack to the extent permitted by Law.
+
+4. Organizations may copy and/or convey the Hack and its Source on behalf of
+   their members and under this License. No other permission is granted
+   to organizations.
+
+All of these grants are free of charge, non-exclusive, valid everywhere
+in the Universe, irrevocable (provided the stated Conditions are met),
+royalty-free and can be transferred to other Humans with the Hack,
+its Source or any Derived Work for no charge.
+
+This License does not grant any rights in the names, trade names,
+trademarks, service marks, or logos of the Hackers, except as required
+for reasonable and customary use in describing the origin of the Hack
+and reproducing the content of the copyright notice.
+
+
+3. Conditions
+-------------
+All grants and permissions provided by this License are subject to the
+following conditions:
+
+1. The Hackers' copyright notice and this License shall be included in
+   all copies or substantial portions of the Hack and of any Derived Work.
+2. The Source of the Hack shall be made available with the Hack and/or by other
+   reasonable means to every User, unconditionally and under this License.
+3. All Wrappers used to integrate the Hack into an Application are 
+   unconditionally available (either with the Hack and/or by other reasonable
+   means) to every User under either this License or compatible ones, so that
+   Users can modify and/or run the whole Application on their own hardware.
+4. The Required Tools shall be made available to every User unconditionally.
+5. No expedient, restriction or impediment, neither technical, legal or
+   otherwise, shall prevent, hinder or inhibit the fruition of the rights
+   granted by this License to any User.
+6. No expedient, restriction or impediment, neither technical, legal or
+   otherwise, shall enable any third party to prevent, hinder or inhibit
+   the fruition of the rights granted by this License to any User of
+   the Hack or to any User of any Derived Work.
+7. No patent infringement litigation claim (excluding counterclaims and
+   cross-claims) alleging that all or part of the Hack directly or indirectly
+   infringes a patent shall be initialized by the User or on User's behalf.
+8. No infringement of the Hackers' Copyright on the Hack can be attributed to
+   the User or to any organization operating on his behalf.
+9. All of the Definitions, the Grants and the Conditions of this License
+   shall be valid and enforceable under the jurisdiction of the User.
+
+
+4. Termination
+--------------
+Failing to comply to the conditions of this License shall automatically
+terminate the grants provided, without affecting other parties who have
+received copies, permissions, patent licenses or rights under this License.
+
+
+5. Severability
+---------------
+The invalidity or unenforceability of any provision of this License does
+not affect the validity or enforceability of the remainder of this License.
+Such provision is to be reformed to the minimum extent necessary to make
+it valid and enforceable.
+
+
+6. No Warranty and Limitation of Liability
+------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+
+7. Use and distribution of the Hacking License
+----------------------------------------------
+This version of the Hacking License was written on January 01, 2019.
+
+Everyone is permitted to copy and distribute verbatim copies of this 
+document, but changing it is not allowed.
+
+Copyright (C) 2018-2019 Giacomo Tesio

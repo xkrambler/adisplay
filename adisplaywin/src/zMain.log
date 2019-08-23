@@ -1,0 +1,7 @@
+Línea 86: la clase RichTextLib.RichTextBox del control scr no era una clase de control cargada.
+Línea 92: el nombre de la propiedad _ExtentX de scr no es válido.
+Línea 93: el nombre de la propiedad _ExtentY de scr no es válido.
+Línea 94: el nombre de la propiedad _Version de scr no es válido.
+Línea 97: el nombre de la propiedad ReadOnly de scr no es válido.
+Línea 98: el nombre de la propiedad ScrollBars de scr no es válido.
+Línea 100: el nombre de la propiedad TextRTF de scr no es válido.

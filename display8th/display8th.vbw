@@ -1,0 +1,10 @@
+zMain = 88, 112, 1187, 450, , 22, 28, 1121, 366, C
+mMain = 44, 56, 1143, 394, C
+mPacket = 0, 0, 1099, 338, Z
+comSelect = 88, 112, 1276, 389, C, 66, 84, 1165, 422, C
+mTimeCtrl = 0, 0, 0, 0, C
+mCenterFrm = 0, 0, 0, 0, C
+mOnTop = 0, 0, 0, 0, C
+mRegEdit = 0, 0, 0, 0, C
+mSerial = 0, 0, 0, 0, C
+cSerial = 44, 56, 1232, 333, C
