@@ -1,0 +1,23 @@
+== VideoDriver ==
+int(4)
+string(3) "x11"
+bool(false)
+== Video OFF ==
+bool(false)
+int(0)
+== Video ON ==
+SDL_VideoInit():int(-1)
+SDL_GetCurrentVideoDriver():bool(false)
+SDL_GetNumVideoDisplays():int(0)
+SDL_GetDisplayName(0):bool(false)
+SDL_GetDisplayBounds(0):int(-1)
+NULL
+SDL_GetNumDisplayModes(0):int(-1)
+SDL_GetDisplayMode(0,0):bool(false)
+SDL_GetDesktopDisplayMode(0):bool(false)
+SDL_GetCurrentDisplayMode(0):bool(false)
+string(0) ""
+NULL
+Segmentation fault (core dumped)
+
+Termsig=11

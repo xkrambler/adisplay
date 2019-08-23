@@ -1,0 +1,31 @@
+002+ Segmentation fault (core dumped)
+003+ 
+004+ Termsig=11
+002- write:int(16)
+003- = Read file
+004- size:int(16)
+005- seek:int(0)
+006- tell:int(0)
+007- read:int(16)
+008- string(16) "Hello SDL2 world"
+009- = Write memory
+010- 
+011- %s: SDL_RWFromMem(): this function may raised unsupported error with PHP memory in %s/015-rwops.php on line %d
+012- Buffer:100
+013- write:int(1)
+014- write:int(3)
+015- write:int(5)
+016- write:int(9)
+017- write:int(13)
+018- Buffer:100
+019- Content:90341256787856341212345678
+020- = Read memory
+021- size:int(100)
+022- seek:int(0)
+023- tell:int(0)
+024- read8:    90
+025- readLE16: 1234
+026- readBE16: 5678
+027- readBE32: 12345678
+028- readBE32: 12345678
+029- = Done

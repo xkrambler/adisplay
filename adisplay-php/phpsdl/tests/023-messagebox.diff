@@ -1,0 +1,113 @@
+039+ /usr/bin/php7.0: symbol lookup error: /data/dev/accord_display8th/adisplay/phpsdl/modules/sdl.so: undefined symbol: zend_objects_get_address
+039- object(SDL_MessageBoxData)#%d (7) {
+040-   ["flags"]=>
+041-   int(0)
+042-   ["title"]=>
+043-   string(11) "Foo title 1"
+044-   ["message"]=>
+045-   string(11) "Foo message"
+046-   ["window"]=>
+047-   bool(false)
+048-   ["numbuttons"]=>
+049-   int(0)
+050-   ["buttons"]=>
+051-   NULL
+052-   ["colors"]=>
+053-   NULL
+054- }
+055- string(33) "SDL_MessageBoxData("Foo title 1")"
+056- object(SDL_MessageBoxData)#%d (7) {
+057-   ["flags"]=>
+058-   int(0)
+059-   ["title"]=>
+060-   string(11) "Foo title 2"
+061-   ["message"]=>
+062-   string(11) "Foo message"
+063-   ["window"]=>
+064-   bool(false)
+065-   ["numbuttons"]=>
+066-   int(2)
+067-   ["buttons"]=>
+068-   array(2) {
+069-     [0]=>
+070-     object(SDL_MessageBoxColor)#%d (6) {
+071-       ["r"]=>
+072-       int(0)
+073-       ["g"]=>
+074-       int(0)
+075-       ["b"]=>
+076-       int(0)
+077-       ["flags"]=>
+078-       int(1)
+079-       ["buttonid"]=>
+080-       int(1)
+081-       ["text"]=>
+082-       string(3) "Yes"
+083-     }
+084-     [1]=>
+085-     object(SDL_MessageBoxColor)#%d (6) {
+086-       ["r"]=>
+087-       int(0)
+088-       ["g"]=>
+089-       int(0)
+090-       ["b"]=>
+091-       int(0)
+092-       ["flags"]=>
+093-       int(2)
+094-       ["buttonid"]=>
+095-       int(0)
+096-       ["text"]=>
+097-       string(2) "No"
+098-     }
+099-   }
+100-   ["colors"]=>
+101-   array(5) {
+102-     [0]=>
+103-     object(SDL_MessageBoxColor)#%d (3) {
+104-       ["r"]=>
+105-       int(0)
+106-       ["g"]=>
+107-       int(0)
+108-       ["b"]=>
+109-       int(0)
+110-     }
+111-     [1]=>
+112-     object(SDL_MessageBoxColor)#%d (3) {
+113-       ["r"]=>
+114-       int(255)
+115-       ["g"]=>
+116-       int(255)
+117-       ["b"]=>
+118-       int(255)
+119-     }
+120-     [2]=>
+121-     object(SDL_MessageBoxColor)#%d (3) {
+122-       ["r"]=>
+123-       int(255)
+124-       ["g"]=>
+125-       int(0)
+126-       ["b"]=>
+127-       int(0)
+128-     }
+129-     [3]=>
+130-     object(SDL_MessageBoxColor)#%d (3) {
+131-       ["r"]=>
+132-       int(0)
+133-       ["g"]=>
+134-       int(255)
+135-       ["b"]=>
+136-       int(0)
+137-     }
+138-     [4]=>
+139-     object(SDL_MessageBoxColor)#%d (3) {
+140-       ["r"]=>
+141-       int(0)
+142-       ["g"]=>
+143-       int(0)
+144-       ["b"]=>
+145-       int(255)
+146-     }
+147-   }
+148- }
+149- string(33) "SDL_MessageBoxData("Foo title 2")"
+150- = Done

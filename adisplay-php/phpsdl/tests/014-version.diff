@@ -1,0 +1,4 @@
+013+ 
+014+ Warning: array_key_exists() expects parameter 2 to be array, null given in /data/dev/accord_display8th/adisplay/phpsdl/tests/014-version.php on line 16
+015+ bool(false)
+015- bool(true)

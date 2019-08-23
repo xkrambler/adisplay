@@ -1,0 +1,31 @@
+030+ NULL
+031+ object(SDL_Color)#2 (4) {
+032+   ["r"]=>
+033+   int(0)
+034+   ["g"]=>
+035+   int(255)
+036+   ["b"]=>
+037+   int(0)
+038+   ["a"]=>
+039+   int(64)
+030- int(16)
+031- int(61440)
+032- int(3840)
+033- int(240)
+034- int(15)
+035- int(356651010)
+036- string(24) "SDL_PIXELFORMAT_RGBA4444"
+037- int(373694468)
+038- string(24) "SDL_PIXELFORMAT_RGBA8888"
+039- Done
+040+ }
+041+ NULL
+042+ NULL
+043+ NULL
+044+ 
+045+ Warning: SDL_MasksToPixelFormatEnum() expects parameter 2 to be integer, object given in /data/dev/accord_display8th/adisplay/phpsdl/tests/009-color.php on line 14
+046+ bool(false)
+047+ string(23) "SDL_PIXELFORMAT_UNKNOWN"
+048+ int(373694468)
+049+ string(24) "SDL_PIXELFORMAT_RGBA8888"
+050+ Done

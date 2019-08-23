@@ -1,0 +1,82 @@
+034+ NULL
+035+ +++ Inter (false)
+036+ bool(false)
+037+ bool(false)
+038+ NULL
+039+ +++ Union
+040+ NULL
+041+ NULL
+042+ NULL
+043+ NULL
+044+ +++ InterLine
+045+ bool(true)
+046+ int(0)
+047+ int(10)
+048+ int(40)
+049+ int(30)
+034- object(SDL_Rect)#6 (4) {
+035-   ["x"]=>
+036-   int(16)
+037-   ["y"]=>
+038-   int(17)
+039-   ["w"]=>
+040-   int(14)
+041-   ["h"]=>
+042-   int(13)
+043- }
+044- +++ Inter (false)
+046- bool(false)
+047- NULL
+048- +++ Union
+051+ +++ EnclosePoints
+052+ string(67) "SDL_Point(20,14) SDL_Point(13,20) SDL_Point(24,20) SDL_Point(20,28)"
+053+ /usr/bin/php7.0: symbol lookup error: /data/dev/accord_display8th/adisplay/phpsdl/modules/sdl.so: undefined symbol: Z_TYPE_PP
+049- NULL
+050- object(SDL_Rect)#6 (4) {
+051-   ["x"]=>
+052-   int(10)
+053-   ["y"]=>
+054-   int(10)
+055-   ["w"]=>
+056-   int(28)
+057-   ["h"]=>
+058-   int(31)
+059- }
+060- NULL
+061- object(SDL_Rect)#%d (4) {
+062-   ["x"]=>
+063-   int(10)
+064-   ["y"]=>
+065-   int(10)
+066-   ["w"]=>
+067-   int(110)
+068-   ["h"]=>
+069-   int(20)
+070- }
+071- +++ InterLine
+072- bool(true)
+073- int(10)
+074- int(15)
+075- int(29)
+076- int(24)
+077- bool(false)
+078- +++ EnclosePoints
+079- string(67) "SDL_Point(20,14) SDL_Point(13,20) SDL_Point(24,20) SDL_Point(20,28)"
+080- bool(true)
+081- object(SDL_Rect)#%d (4) {
+082-   ["x"]=>
+083-   int(13)
+084-   ["y"]=>
+085-   int(14)
+086-   ["w"]=>
+087-   int(12)
+088-   ["h"]=>
+089-   int(15)
+090- }
+091- 
+092- Warning: SDL_EnclosePoints(): point #4 is not a SDL_Point object in %s/006-rect.php on line %d
+093- 
+094- Warning: SDL_EnclosePoints(): point #5 missing in %s/006-rect.php on line %d
+095- bool(false)
+096- NULL
+097- Done

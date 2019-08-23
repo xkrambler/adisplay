@@ -1,0 +1,81 @@
+= Create Palette
+string(40) "SDL_Surface(0,150,100,8,0x0,0x0,0x0,0x0)"
+int(150)
+int(100)
+int(256)
+object(SDL_Pixels)#%d (3) {
+  ["pitch"]=>
+  int(152)
+  ["h"]=>
+  int(100)
+  ["count"]=>
+  int(15200)
+}
+= Create True colors
+string(57) "SDL_Surface(0,150,100,32,0xff000000,0xff0000,0xff00,0xff)"
+int(150)
+int(100)
+NULL
+object(SDL_Pixels)#%d (3) {
+  ["pitch"]=>
+  int(600)
+  ["h"]=>
+  int(100)
+  ["count"]=>
+  int(60000)
+}
+= Lock
+bool(false)
+int(0)
+int(0)
+int(1)
+NULL
+int(0)
+= ColorKey
+int(0)
+int(0)
+int(127)
+int(0)
+int(-1)
+= ColorMod
+int(0)
+int(0)
+int(1)
+int(2)
+int(3)
+= AlphaMod
+int(0)
+int(0)
+int(4)
+= BlendMode
+int(0)
+int(0)
+bool(true)
+= ClipRect
+bool(true)
+NULL
+object(SDL_Rect)#%d (4) {
+  ["x"]=>
+  int(10)
+  ["y"]=>
+  int(20)
+  ["w"]=>
+  int(30)
+  ["h"]=>
+  int(40)
+}
+object(SDL_Rect)#%d (4) {
+  ["x"]=>
+  int(10)
+  ["y"]=>
+  int(20)
+  ["w"]=>
+  int(30)
+  ["h"]=>
+  int(40)
+}
+= Convert
+bool(true)
+bool(true)
+= Free
+= Done

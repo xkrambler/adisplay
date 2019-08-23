@@ -1,0 +1,53 @@
++++ Empty (true)
+object(SDL_Rect)#1 (4) {
+  ["x"]=>
+  int(0)
+  ["y"]=>
+  int(0)
+  ["w"]=>
+  int(0)
+  ["h"]=>
+  int(0)
+}
+string(17) "SDL_Rect(0,0,0,0)"
+bool(true)
++++ Empty (false)
+object(SDL_Rect)#2 (4) {
+  ["x"]=>
+  int(1)
+  ["y"]=>
+  int(2)
+  ["w"]=>
+  int(3)
+  ["h"]=>
+  int(4)
+}
+string(17) "SDL_Rect(1,2,3,4)"
+bool(false)
++++ Equal (true)
+bool(true)
+bool(true)
++++ Equal (false)
+bool(false)
+bool(false)
++++ Inter (true)
+bool(true)
+bool(true)
+NULL
++++ Inter (false)
+bool(false)
+bool(false)
+NULL
++++ Uninon
+NULL
+NULL
+NULL
+NULL
++++ InterLine
+bool(true)
+int(0)
+int(10)
+int(40)
+int(30)
+bool(false)
+Done

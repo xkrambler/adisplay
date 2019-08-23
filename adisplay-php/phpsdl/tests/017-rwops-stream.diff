@@ -1,0 +1,11 @@
+002+ 
+003+ Warning: SDL_RWFromFP(): supplied argument is not a valid stream resource in /data/dev/accord_display8th/adisplay/phpsdl/tests/017-rwops-stream.php on line 4
+004+ size:
+005+ Fatal error: Uncaught Error: Call to a member function size() on boolean in /data/dev/accord_display8th/adisplay/phpsdl/tests/017-rwops-stream.php:5
+002- size:int(20932)
+003- read:bool(true)
+004- bool(true)
+005- = Done
+006+ Stack trace:
+007+ #0 {main}
+008+   thrown in /data/dev/accord_display8th/adisplay/phpsdl/tests/017-rwops-stream.php on line 5

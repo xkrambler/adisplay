@@ -1,0 +1,39 @@
+= SDL_MessageBoxColor
+object(SDL_MessageBoxColor)#1 (3) {
+  ["r"]=>
+  int(1)
+  ["g"]=>
+  int(2)
+  ["b"]=>
+  int(3)
+}
+string(26) "SDL_MessageBoxColor(1,2,3)"
+object(SDL_MessageBoxColor)#1 (3) {
+  ["r"]=>
+  string(3) "123"
+  ["g"]=>
+  float(345.6)
+  ["b"]=>
+  int(-5)
+}
+string(31) "SDL_MessageBoxColor(123,89,251)"
+object(SDL_MessageBoxColor)#1 (3) {
+  ["r"]=>
+  int(123)
+  ["g"]=>
+  int(89)
+  ["b"]=>
+  int(251)
+}
+= SDL_MessageBoxButtonData
+object(SDL_MessageBoxButtonData)#2 (3) {
+  ["flags"]=>
+  int(0)
+  ["buttonid"]=>
+  int(1)
+  ["text"]=>
+  string(10) "Foo button"
+}
+string(42) "SDL_MessageBoxButtonData(0,1,"Foo button")"
+= SDL_MessageBoxData
+/usr/bin/php7.0: symbol lookup error: /data/dev/accord_display8th/adisplay/phpsdl/modules/sdl.so: undefined symbol: zend_objects_get_address

@@ -1,0 +1,37 @@
+
+---- EXPECTED OUTPUT
+= Create file
+write:int(16)
+= Read file
+size:int(16)
+seek:int(0)
+tell:int(0)
+read:int(16)
+string(16) "Hello SDL2 world"
+= Write memory
+
+%s: SDL_RWFromMem(): this function may raised unsupported error with PHP memory in %s/015-rwops.php on line %d
+Buffer:100
+write:int(1)
+write:int(3)
+write:int(5)
+write:int(9)
+write:int(13)
+Buffer:100
+Content:90341256787856341212345678
+= Read memory
+size:int(100)
+seek:int(0)
+tell:int(0)
+read8:    90
+readLE16: 1234
+readBE16: 5678
+readBE32: 12345678
+readBE32: 12345678
+= Done
+---- ACTUAL OUTPUT
+= Create file
+Segmentation fault (core dumped)
+
+Termsig=11
+---- FAILED

@@ -1,0 +1,29 @@
+= Create
+Exception: Invalid size
+
+Notice: SDL_Pixels::__construct(): Pitch set to 12 in %s%e022-pixels.php on line 8
+object(SDL_Pixels)#%d (3) {
+  ["pitch"]=>
+  int(12)
+  ["h"]=>
+  int(10)
+  ["count"]=>
+  int(120)
+}
+string(17) "SDL_Pixels(12,10)"
+= Get/Set
+
+Notice: SDL_Pixels::GetByte(): Invalid position (15,15) in SDL_Pixels (12,10) in %s%e022-pixels.php on line 10
+bool(false)
+int(0)
+int(1)
+int(0)
+int(255)
+= Array
+int(0)
+bool(true)
+bool(false)
+int(127)
+int(127)
+int(0)
+= Done

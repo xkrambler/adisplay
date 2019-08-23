@@ -1,0 +1,4 @@
+010+ bool(false)
+011+ bool(false)
+010- bool(true)
+011- bool(true)

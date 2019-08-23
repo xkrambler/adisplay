@@ -1,0 +1,83 @@
+002+ Segmentation fault (core dumped)
+003+ 
+004+ Termsig=11
+002- string(40) "SDL_Surface(0,150,100,8,0x0,0x0,0x0,0x0)"
+003- int(150)
+004- int(100)
+005- int(256)
+006- object(SDL_Pixels)#%d (3) {
+007-   ["pitch"]=>
+008-   int(152)
+009-   ["h"]=>
+010-   int(100)
+011-   ["count"]=>
+012-   int(15200)
+013- }
+014- = Create True colors
+015- string(57) "SDL_Surface(0,150,100,32,0xff000000,0xff0000,0xff00,0xff)"
+016- int(150)
+017- int(100)
+018- NULL
+019- object(SDL_Pixels)#%d (3) {
+020-   ["pitch"]=>
+021-   int(600)
+022-   ["h"]=>
+023-   int(100)
+024-   ["count"]=>
+025-   int(60000)
+026- }
+027- = Lock
+028- bool(false)
+029- int(0)
+030- int(0)
+031- int(1)
+032- NULL
+033- int(0)
+034- = ColorKey
+035- int(0)
+036- int(0)
+037- int(127)
+038- int(0)
+039- int(-1)
+040- = ColorMod
+041- int(0)
+042- int(0)
+043- int(1)
+044- int(2)
+045- int(3)
+046- = AlphaMod
+047- int(0)
+048- int(0)
+049- int(4)
+050- = BlendMode
+051- int(0)
+052- int(0)
+053- bool(true)
+054- = ClipRect
+055- bool(true)
+056- NULL
+057- object(SDL_Rect)#%d (4) {
+058-   ["x"]=>
+059-   int(10)
+060-   ["y"]=>
+061-   int(20)
+062-   ["w"]=>
+063-   int(30)
+064-   ["h"]=>
+065-   int(40)
+066- }
+067- object(SDL_Rect)#%d (4) {
+068-   ["x"]=>
+069-   int(10)
+070-   ["y"]=>
+071-   int(20)
+072-   ["w"]=>
+073-   int(30)
+074-   ["h"]=>
+075-   int(40)
+076- }
+077- = Convert
+078- bool(true)
+079- bool(true)
+080- = Free
+081- = Done

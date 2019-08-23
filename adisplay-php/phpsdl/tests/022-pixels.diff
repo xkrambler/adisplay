@@ -1,0 +1,28 @@
+003+ Segmentation fault (core dumped)
+004- Notice: SDL_Pixels::__construct(): Pitch set to 12 in %s%e022-pixels.php on line 8
+005+ Termsig=11
+005- object(SDL_Pixels)#%d (3) {
+006-   ["pitch"]=>
+007-   int(12)
+008-   ["h"]=>
+009-   int(10)
+010-   ["count"]=>
+011-   int(120)
+012- }
+013- string(17) "SDL_Pixels(12,10)"
+014- = Get/Set
+015- 
+016- Notice: SDL_Pixels::GetByte(): Invalid position (15,15) in SDL_Pixels (12,10) in %s%e022-pixels.php on line 10
+017- bool(false)
+018- int(0)
+019- int(1)
+020- int(0)
+021- int(255)
+022- = Array
+023- int(0)
+024- bool(true)
+025- bool(false)
+026- int(127)
+027- int(127)
+028- int(0)
+029- = Done

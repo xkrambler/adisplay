@@ -1,0 +1,44 @@
+
+---- EXPECTED OUTPUT
+= Constants
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(false)
+bool(true)
+= Functions
+bool(true)
+bool(true)
+bool(true)
+bool(false)
+bool(true)
+bool(true)
+= Done
+---- ACTUAL OUTPUT
+= Constants
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+bool(false)
+bool(true)
+= Functions
+
+Warning: array_key_exists() expects parameter 2 to be array, null given in /data/dev/accord_display8th/adisplay/phpsdl/tests/014-version.php on line 16
+bool(false)
+bool(true)
+bool(true)
+bool(false)
+bool(true)
+bool(true)
+= Done
+---- FAILED

@@ -1,0 +1,58 @@
+002+ Segmentation fault (core dumped)
+003+ 
+004+ Termsig=11
+002- int(150)
+003- int(100)
+004- int(256)
+005- = Create True colors
+006- int(150)
+007- int(100)
+008- NULL
+009- = Lock
+010- bool(false)
+011- int(0)
+012- int(0)
+013- int(1)
+014- NULL
+015- int(0)
+016- = ColorKey
+017- int(0)
+018- int(0)
+019- int(127)
+020- int(0)
+021- int(-1)
+022- = ColorMod
+023- int(0)
+024- int(0)
+025- int(1)
+026- int(2)
+027- int(3)
+028- = AlphaMod
+029- int(0)
+030- int(0)
+031- int(4)
+032- = BlendMode
+033- int(0)
+034- int(0)
+035- bool(true)
+036- = ClipRect
+037- bool(true)
+038- NULL
+039- object(SDL_Rect)#%d (4) {
+040-   ["x"]=>
+041-   int(10)
+042-   ["y"]=>
+043-   int(20)
+044-   ["w"]=>
+045-   int(30)
+046-   ["h"]=>
+047-   int(40)
+048- }
+049- = Convert
+050- bool(true)
+051- bool(true)
+052- = ConvertPixels
+053- int(0)
+054- string(0) ""
+055- = Free
+056- = Done

@@ -1,0 +1,4 @@
+= Palette
+= Color
+= PaletteColors
+/usr/bin/php7.0: symbol lookup error: /data/dev/accord_display8th/adisplay/phpsdl/modules/sdl.so: undefined symbol: Z_TYPE_PP

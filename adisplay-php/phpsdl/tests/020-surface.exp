@@ -1,0 +1,56 @@
+= Create Palette
+int(150)
+int(100)
+int(256)
+= Create True colors
+int(150)
+int(100)
+NULL
+= Lock
+bool(false)
+int(0)
+int(0)
+int(1)
+NULL
+int(0)
+= ColorKey
+int(0)
+int(0)
+int(127)
+int(0)
+int(-1)
+= ColorMod
+int(0)
+int(0)
+int(1)
+int(2)
+int(3)
+= AlphaMod
+int(0)
+int(0)
+int(4)
+= BlendMode
+int(0)
+int(0)
+bool(true)
+= ClipRect
+bool(true)
+NULL
+object(SDL_Rect)#%d (4) {
+  ["x"]=>
+  int(10)
+  ["y"]=>
+  int(20)
+  ["w"]=>
+  int(30)
+  ["h"]=>
+  int(40)
+}
+= Convert
+bool(true)
+bool(true)
+= ConvertPixels
+int(0)
+string(0) ""
+= Free
+= Done

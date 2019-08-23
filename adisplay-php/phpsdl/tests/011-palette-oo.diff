@@ -1,0 +1,72 @@
+003+ /usr/bin/php7.0: symbol lookup error: /data/dev/accord_display8th/adisplay/phpsdl/modules/sdl.so: undefined symbol: zend_objects_get_address
+003- object(SDL_Palette)#%d (4) {
+004-   ["ncolors"]=>
+005-   int(1)
+006-   ["version"]=>
+007-   int(1)
+008-   ["refcount"]=>
+009-   int(1)
+010-   ["colors"]=>
+011-   array(1) {
+012-     [0]=>
+013-     object(SDL_Color)#%d (4) {
+014-       ["r"]=>
+015-       int(255)
+016-       ["g"]=>
+017-       int(255)
+018-       ["b"]=>
+019-       int(255)
+020-       ["a"]=>
+021-       int(255)
+022-     }
+023-   }
+024- }
+025- = Color
+026- object(SDL_Color)#%d (4) {
+027-   ["r"]=>
+028-   int(255)
+029-   ["g"]=>
+030-   int(255)
+031-   ["b"]=>
+032-   int(255)
+033-   ["a"]=>
+034-   int(255)
+035- }
+036- 
+037- %s: SDL_Palette::SetColors(): Invalid first color index, 2 >= 1 in %s/011-palette-oo.php on line 13
+038- int(-1)
+039- int(0)
+040- object(SDL_Color)#%d (4) {
+041-   ["r"]=>
+042-   int(1)
+043-   ["g"]=>
+044-   int(2)
+045-   ["b"]=>
+046-   int(3)
+047-   ["a"]=>
+048-   int(4)
+049- }
+050- = Array
+051- int(1)
+052- object(SDL_Color)#%d (4) {
+053-   ["r"]=>
+054-   int(7)
+055-   ["g"]=>
+056-   int(8)
+057-   ["b"]=>
+058-   int(9)
+059-   ["a"]=>
+060-   int(0)
+061- }
+062- object(SDL_Color)#%d (4) {
+063-   ["r"]=>
+064-   int(0)
+065-   ["g"]=>
+066-   int(0)
+067-   ["b"]=>
+068-   int(0)
+069-   ["a"]=>
+070-   int(0)
+071- }
+072- = Free
+073- = Done

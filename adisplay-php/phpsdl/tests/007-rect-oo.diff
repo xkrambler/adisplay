@@ -1,0 +1,61 @@
+036+ NULL
+037+ +++ Inter (false)
+038+ bool(false)
+039+ bool(false)
+040+ NULL
+041+ +++ Uninon
+042+ NULL
+043+ NULL
+044+ NULL
+045+ NULL
+046+ +++ InterLine
+047+ bool(true)
+048+ int(0)
+049+ int(10)
+050+ int(40)
+051+ int(30)
+036- object(SDL_Rect)#6 (4) {
+037-   ["x"]=>
+038-   int(16)
+039-   ["y"]=>
+040-   int(17)
+041-   ["w"]=>
+042-   int(14)
+043-   ["h"]=>
+044-   int(13)
+045- }
+046- +++ Inter (false)
+048- bool(false)
+053+ Done
+049- NULL
+050- +++ Uninon
+051- NULL
+052- object(SDL_Rect)#6 (4) {
+053-   ["x"]=>
+054-   int(10)
+055-   ["y"]=>
+056-   int(10)
+057-   ["w"]=>
+058-   int(28)
+059-   ["h"]=>
+060-   int(31)
+061- }
+062- NULL
+063- object(SDL_Rect)#6 (4) {
+064-   ["x"]=>
+065-   int(10)
+066-   ["y"]=>
+067-   int(10)
+068-   ["w"]=>
+069-   int(110)
+070-   ["h"]=>
+071-   int(20)
+072- }
+073- +++ InterLine
+074- bool(true)
+075- int(10)
+076- int(15)
+077- int(29)
+078- int(24)
+079- bool(false)
+080- Done

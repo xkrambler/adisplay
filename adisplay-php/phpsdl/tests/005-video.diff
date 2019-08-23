@@ -1,0 +1,66 @@
+009+ SDL_VideoInit():int(-1)
+010+ SDL_GetCurrentVideoDriver():bool(false)
+009- SDL_VideoInit():int(0)
+010- SDL_GetCurrentVideoDriver():string(%d) "%s"
+012+ SDL_GetDisplayName(0):bool(false)
+013+ SDL_GetDisplayBounds(0):int(-1)
+014+ NULL
+015+ SDL_GetNumDisplayModes(0):int(-1)
+016+ SDL_GetDisplayMode(0,0):bool(false)
+017+ SDL_GetDesktopDisplayMode(0):bool(false)
+018+ SDL_GetCurrentDisplayMode(0):bool(false)
+019+ string(0) ""
+020+ NULL
+021+ Segmentation fault (core dumped)
+022+ 
+023+ Termsig=11
+012- SDL_GetDisplayName(0):string(9) "Color LCD"
+013- SDL_GetDisplayBounds(0):int(0)
+014- object(SDL_Rect)#1 (4) {
+015-   ["x"]=>
+016-   int(0)
+017-   ["y"]=>
+018-   int(0)
+019-   ["w"]=>
+020-   int(1680)
+021-   ["h"]=>
+022-   int(1050)
+023- }
+024- SDL_GetNumDisplayModes(0):int(%d)
+025- SDL_GetDisplayMode(0,0):object(SDL_DisplayMode)#2 (4) {
+026-   ["format"]=>
+027-   int(%d)
+028-   ["w"]=>
+029-   int(%d)
+030-   ["h"]=>
+031-   int(%d)
+032-   ["refresh_rate"]=>
+033-   int(%d)
+034- }
+035- SDL_GetDesktopDisplayMode(0):object(SDL_DisplayMode)#2 (4) {
+036-   ["format"]=>
+037-   int(%d)
+038-   ["w"]=>
+039-   int(%d)
+040-   ["h"]=>
+041-   int(%d)
+042-   ["refresh_rate"]=>
+043-   int(%d)
+044- }
+045- SDL_GetCurrentDisplayMode(0):object(SDL_DisplayMode)#2 (4) {
+046-   ["format"]=>
+047-   int(%d)
+048-   ["w"]=>
+049-   int(%d)
+050-   ["h"]=>
+051-   int(%d)
+052-   ["refresh_rate"]=>
+053-   int(%d)
+054- }
+055- string(%d) "SDL_DisplayMode(%s,%d,%d,%d)"
+056- NULL
+057- int(0)
+058- NULL
+059- int(-1)
+060- NULL
+061- Done

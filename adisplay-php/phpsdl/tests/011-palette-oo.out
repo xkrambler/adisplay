@@ -1,0 +1,3 @@
+= Alloc
+Parameter 'ncolors' is invalid
+/usr/bin/php7.0: symbol lookup error: /data/dev/accord_display8th/adisplay/phpsdl/modules/sdl.so: undefined symbol: zend_objects_get_address

@@ -1,0 +1,54 @@
+php_sdl.lo: /data/dev/accord_display8th/adisplay/phpsdl/php_sdl.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/php_sdl.c -o php_sdl.lo 
+blendmode.lo: /data/dev/accord_display8th/adisplay/phpsdl/blendmode.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/blendmode.c -o blendmode.lo 
+cpuinfo.lo: /data/dev/accord_display8th/adisplay/phpsdl/cpuinfo.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/cpuinfo.c -o cpuinfo.lo 
+error.lo: /data/dev/accord_display8th/adisplay/phpsdl/error.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/error.c -o error.lo 
+event.lo: /data/dev/accord_display8th/adisplay/phpsdl/event.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/event.c -o event.lo 
+filesystem.lo: /data/dev/accord_display8th/adisplay/phpsdl/filesystem.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/filesystem.c -o filesystem.lo 
+glcontext.lo: /data/dev/accord_display8th/adisplay/phpsdl/glcontext.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/glcontext.c -o glcontext.lo 
+keyboard.lo: /data/dev/accord_display8th/adisplay/phpsdl/keyboard.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/keyboard.c -o keyboard.lo 
+messagebox.lo: /data/dev/accord_display8th/adisplay/phpsdl/messagebox.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/messagebox.c -o messagebox.lo 
+mouse.lo: /data/dev/accord_display8th/adisplay/phpsdl/mouse.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/mouse.c -o mouse.lo 
+mutex.lo: /data/dev/accord_display8th/adisplay/phpsdl/mutex.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/mutex.c -o mutex.lo 
+pixels.lo: /data/dev/accord_display8th/adisplay/phpsdl/pixels.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/pixels.c -o pixels.lo 
+platform.lo: /data/dev/accord_display8th/adisplay/phpsdl/platform.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/platform.c -o platform.lo 
+power.lo: /data/dev/accord_display8th/adisplay/phpsdl/power.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/power.c -o power.lo 
+rect.lo: /data/dev/accord_display8th/adisplay/phpsdl/rect.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/rect.c -o rect.lo 
+render.lo: /data/dev/accord_display8th/adisplay/phpsdl/render.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/render.c -o render.lo 
+rwops.lo: /data/dev/accord_display8th/adisplay/phpsdl/rwops.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/rwops.c -o rwops.lo 
+sdl.lo: /data/dev/accord_display8th/adisplay/phpsdl/sdl.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/sdl.c -o sdl.lo 
+shape.lo: /data/dev/accord_display8th/adisplay/phpsdl/shape.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/shape.c -o shape.lo 
+surface.lo: /data/dev/accord_display8th/adisplay/phpsdl/surface.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/surface.c -o surface.lo 
+timer.lo: /data/dev/accord_display8th/adisplay/phpsdl/timer.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/timer.c -o timer.lo 
+version.lo: /data/dev/accord_display8th/adisplay/phpsdl/version.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/version.c -o version.lo 
+video.lo: /data/dev/accord_display8th/adisplay/phpsdl/video.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/video.c -o video.lo 
+window.lo: /data/dev/accord_display8th/adisplay/phpsdl/window.c
+	$(LIBTOOL) --mode=compile $(CC)  -I. -I/data/dev/accord_display8th/adisplay/phpsdl $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS)  -c /data/dev/accord_display8th/adisplay/phpsdl/window.c -o window.lo 
+$(phplibdir)/sdl.la: ./sdl.la
+	$(LIBTOOL) --mode=install cp ./sdl.la $(phplibdir)
+
+./sdl.la: $(shared_objects_sdl) $(SDL_SHARED_DEPENDENCIES)
+	$(LIBTOOL) --mode=link $(CC) $(COMMON_FLAGS) $(CFLAGS_CLEAN) $(EXTRA_CFLAGS) $(LDFLAGS) -o $@ -export-dynamic -avoid-version -prefer-pic -module -rpath $(phplibdir) $(EXTRA_LDFLAGS) $(shared_objects_sdl) $(SDL_SHARED_LIBADD)
+

@@ -1,0 +1,39 @@
+Color
+object(SDL_Color)#1 (4) {
+  ["r"]=>
+  int(1)
+  ["g"]=>
+  int(63)
+  ["b"]=>
+  int(127)
+  ["a"]=>
+  int(255)
+}
+object(SDL_Color)#2 (4) {
+  ["r"]=>
+  int(0)
+  ["g"]=>
+  int(255)
+  ["b"]=>
+  int(0)
+  ["a"]=>
+  int(64)
+}
+Name
+string(23) "SDL_PIXELFORMAT_UNKNOWN"
+string(24) "SDL_PIXELFORMAT_RGBA4444"
+string(20) "SDL_PIXELFORMAT_YVYU"
+string(23) "SDL_PIXELFORMAT_UNKNOWN"
+Mask
+bool(true)
+int(356651010)
+int(16)
+int(61440)
+int(3840)
+int(240)
+int(15)
+int(356651010)
+string(24) "SDL_PIXELFORMAT_RGBA4444"
+int(373694468)
+string(24) "SDL_PIXELFORMAT_RGBA8888"
+Done
